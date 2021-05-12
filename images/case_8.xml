@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>case_8</filename>
+  <path>E:/Faster-rcnn-stroke/images/case_8.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ischemic</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>81</ymin>
+      <xmax>155</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+</annotation>
