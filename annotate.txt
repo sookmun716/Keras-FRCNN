@@ -1,0 +1,1 @@
+E:/Faster-rcnn-stroke/images/case_2.png,141,201,156,218,Ischemic
