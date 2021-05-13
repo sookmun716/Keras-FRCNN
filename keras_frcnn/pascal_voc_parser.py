@@ -19,7 +19,7 @@ def get_data(input_path):
 	for data_path in data_paths:
 
 		annot_path = os.path.join(data_path, 'Annotations')
-		imgs_path = os.path.join(data_path, 'JPEGImages')
+		imgs_path = os.path.join(data_path, 'PNGImages')
 		imgsets_path_trainval = os.path.join(data_path, 'ImageSets','Main','trainval.txt')
 		imgsets_path_test = os.path.join(data_path, 'ImageSets','Main','test.txt')
 
@@ -28,14 +28,14 @@ def get_data(input_path):
 		try:
 			with open(imgsets_path_trainval) as f:
 				for line in f:
-					trainval_files.append(line.strip() + '.jpg')
+					trainval_files.append(line.strip() + '.png')
 		except Exception as e:
 			print(e)
 
 		try:
 			with open(imgsets_path_test) as f:
 				for line in f:
-					test_files.append(line.strip() + '.jpg')
+					test_files.append(line.strip() + '.png')
 		except Exception as e:
 			if data_path[-7:] == 'VOC2012':
 				# this is expected, most pascal voc distibutions dont have the test.txt file

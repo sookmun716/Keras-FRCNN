@@ -160,7 +160,7 @@ print(class_mapping)
 class_to_color = {class_mapping[v]: np.random.randint(0, 255, 3) for v in class_mapping}
 C.num_rois = int(options.num_rois)
 
-if K.common.image_dim_ordering() == 'th':
+if K.image_data_format() == 'th':
 	input_shape_img = (3, None, None)
 	input_shape_features = (1024, None, None)
 else:
@@ -207,7 +207,7 @@ for idx, img_data in enumerate(test_imgs):
 
 	X, fx, fy = format_img(img, C)
 
-	if K.common.image_dim_ordering() == 'tf':
+	if K.image_data_format() == 'tf':
 		X = np.transpose(X, (0, 2, 3, 1))
 
 	# get the feature maps and output from the RPN

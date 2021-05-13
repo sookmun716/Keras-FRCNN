@@ -1,6 +1,5 @@
 E:/Faster-rcnn-stroke/images/case_2.png,141,201,156,218,Ischemic
 E:/Faster-rcnn-stroke/images/case_3.png,155,75,185,118,Ischemic
-E:/Faster-rcnn-stroke/images/case_4.png,162,99,193,129,Ischemic
 E:/Faster-rcnn-stroke/images/case_5.png,160,89,193,113,Ischemic
 E:/Faster-rcnn-stroke/images/case_6.png,194,143,199,148,Ischemic
 E:/Faster-rcnn-stroke/images/case_7.png,137,66,158,103,Ischemic
@@ -8,7 +7,6 @@ E:/Faster-rcnn-stroke/images/case_8.png,136,81,155,120,Ischemic
 E:/Faster-rcnn-stroke/images/case_9.png,130,66,202,138,Ischemic
 E:/Faster-rcnn-stroke/images/case_10.png,72,107,107,191,Ischemic
 E:/Faster-rcnn-stroke/images/case_11.png,97,106,115,145,Ischemic
-E:/Faster-rcnn-stroke/images/case_12.png,145,103,161,156,Ischemic
 E:/Faster-rcnn-stroke/images/case_13.png,94,118,99,123,Ischemic
 E:/Faster-rcnn-stroke/images/case_14.png,93,125,106,146,Ischemic
 E:/Faster-rcnn-stroke/images/case_15.png,64,150,89,189,Ischemic
@@ -24,9 +22,7 @@ E:/Faster-rcnn-stroke/images/case_24.png,53,114,93,133,Ischemic
 E:/Faster-rcnn-stroke/images/case_25.png,88,99,112,136,Ischemic
 E:/Faster-rcnn-stroke/images/case_26.png,175,134,193,161,Ischemic
 E:/Faster-rcnn-stroke/images/case_27.png,174,142,205,185,Ischemic
-E:/Faster-rcnn-stroke/images/case_28.png,162,123,197,202,Ischemic
 E:/Faster-rcnn-stroke/images/case_29.png,156,127,194,202,Ischemic
-E:/Faster-rcnn-stroke/images/case_30.png,59,96,103,145,Ischemic
 E:/Faster-rcnn-stroke/images/case_31.png,68,102,100,150,Ischemic
 E:/Faster-rcnn-stroke/images/case_32.png,141,112,189,164,Ischemic
 E:/Faster-rcnn-stroke/images/case_33.png,141,120,187,180,Ischemic
@@ -41,7 +37,6 @@ E:/Faster-rcnn-stroke/images/case_41.png,84,111,112,157,Ischemic
 E:/Faster-rcnn-stroke/images/case_42.png,60,118,110,171,Ischemic
 E:/Faster-rcnn-stroke/images/case_43.png,52,85,101,224,Ischemic
 E:/Faster-rcnn-stroke/images/case_44.png,58,109,103,227,Ischemic
-E:/Faster-rcnn-stroke/images/case_45.png,78,92,111,136,Ischemic
 E:/Faster-rcnn-stroke/images/case_46.png,70,105,100,135,Ischemic
 E:/Faster-rcnn-stroke/images/case_47.png,163,104,203,186,Ischemic
 E:/Faster-rcnn-stroke/images/case_48.png,157,96,195,198,Ischemic
@@ -61,7 +56,6 @@ E:/Faster-rcnn-stroke/images/case_61.png,45,93,99,151,Ischemic
 E:/Faster-rcnn-stroke/images/case_62.png,88,115,106,138,Ischemic
 E:/Faster-rcnn-stroke/images/case_63.png,86,117,106,142,Ischemic
 E:/Faster-rcnn-stroke/images/case_64.png,153,98,187,157,Ischemic
-E:/Faster-rcnn-stroke/images/case_65.png,152,123,188,156,Ischemic
 E:/Faster-rcnn-stroke/images/case_66.png,153,87,188,126,Ischemic
 E:/Faster-rcnn-stroke/images/case_67.png,153,83,199,141,Ischemic
 E:/Faster-rcnn-stroke/images/case_68.png,167,87,211,162,Ischemic
@@ -75,7 +69,6 @@ E:/Faster-rcnn-stroke/images/case_75.png,69,85,134,182,Ischemic
 E:/Faster-rcnn-stroke/images/case_76.png,70,120,126,199,Ischemic
 E:/Faster-rcnn-stroke/images/case_77.png,51,95,104,208,Ischemic
 E:/Faster-rcnn-stroke/images/case_78.png,137,83,163,129,Ischemic
-E:/Faster-rcnn-stroke/images/case_79.png,145,101,160,129,Ischemic
 E:/Faster-rcnn-stroke/images/case_80.png,151,120,162,139,Ischemic
 E:/Faster-rcnn-stroke/images/case_81.png,58,95,82,157,Ischemic
 E:/Faster-rcnn-stroke/images/case_82.png,73,69,125,199,Ischemic
@@ -84,10 +77,8 @@ E:/Faster-rcnn-stroke/images/case_84.png,47,68,96,141,Ischemic
 E:/Faster-rcnn-stroke/images/case_85.png,139,82,191,160,Ischemic
 E:/Faster-rcnn-stroke/images/case_86.png,68,170,91,192,Ischemic
 E:/Faster-rcnn-stroke/images/case_87.png,54,50,105,154,Ischemic
-E:/Faster-rcnn-stroke/images/case_88.png,163,96,180,145,Ischemic
 E:/Faster-rcnn-stroke/images/case_89.png,152,131,165,153,Ischemic
 E:/Faster-rcnn-stroke/images/case_90.png,144,139,185,177,Ischemic
-E:/Faster-rcnn-stroke/images/case_91.png,139,96,158,143,Ischemic
 E:/Faster-rcnn-stroke/images/case_92.png,73,123,89,142,Ischemic
 E:/Faster-rcnn-stroke/images/case_93.png,138,39,185,150,Ischemic
 E:/Faster-rcnn-stroke/images/case_94.png,177,98,192,113,Ischemic

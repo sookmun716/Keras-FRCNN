@@ -1,0 +1,9 @@
+E:/Faster-rcnn-stroke/images/case_4.png,162,99,193,129,Ischemic
+E:/Faster-rcnn-stroke/images/case_12.png,145,103,161,156,Ischemic
+E:/Faster-rcnn-stroke/images/case_28.png,162,123,197,202,Ischemic
+E:/Faster-rcnn-stroke/images/case_30.png,59,96,103,145,Ischemic
+E:/Faster-rcnn-stroke/images/case_45.png,78,92,111,136,Ischemic
+E:/Faster-rcnn-stroke/images/case_65.png,152,123,188,156,Ischemic
+E:/Faster-rcnn-stroke/images/case_79.png,145,101,160,129,Ischemic
+E:/Faster-rcnn-stroke/images/case_88.png,163,96,180,145,Ischemic
+E:/Faster-rcnn-stroke/images/case_91.png,139,96,158,143,Ischemic
